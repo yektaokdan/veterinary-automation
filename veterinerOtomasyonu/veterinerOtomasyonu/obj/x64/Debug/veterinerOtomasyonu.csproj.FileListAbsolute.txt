@@ -1,0 +1,11 @@
+C:\Users\nadko\source\repos\veterinerOtomasyonu\veterinerOtomasyonu\bin\x64\Debug\veterinerOtomasyonu.exe.config
+C:\Users\nadko\source\repos\veterinerOtomasyonu\veterinerOtomasyonu\bin\x64\Debug\veterinerOtomasyonu.exe
+C:\Users\nadko\source\repos\veterinerOtomasyonu\veterinerOtomasyonu\bin\x64\Debug\veterinerOtomasyonu.pdb
+C:\Users\nadko\source\repos\veterinerOtomasyonu\veterinerOtomasyonu\obj\x64\Debug\veterinerOtomasyonu.Form1.resources
+C:\Users\nadko\source\repos\veterinerOtomasyonu\veterinerOtomasyonu\obj\x64\Debug\veterinerOtomasyonu.Properties.Resources.resources
+C:\Users\nadko\source\repos\veterinerOtomasyonu\veterinerOtomasyonu\obj\x64\Debug\veterinerOtomasyonu.csproj.GenerateResource.cache
+C:\Users\nadko\source\repos\veterinerOtomasyonu\veterinerOtomasyonu\obj\x64\Debug\veterinerOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\nadko\source\repos\veterinerOtomasyonu\veterinerOtomasyonu\obj\x64\Debug\veterinerOtomasyonu.exe
+C:\Users\nadko\source\repos\veterinerOtomasyonu\veterinerOtomasyonu\obj\x64\Debug\veterinerOtomasyonu.pdb
+C:\Users\nadko\source\repos\veterinerOtomasyonu\veterinerOtomasyonu\obj\x64\Debug\veterinerOtomasyonu.csprojAssemblyReference.cache
+C:\Users\nadko\source\repos\veterinerOtomasyonu\veterinerOtomasyonu\obj\x64\Debug\veterinerOtomasyonu.Form2.resources
